@@ -8,10 +8,10 @@ description:
 #-------------------------------
 # Author Settings
 author:
-  name: Alex Rodriguez
-  image: 01.jpg
-  say-hello: Hello, I’m <strong>Alex Rodriguez</strong>
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+  name: Edmund Husserl
+  image: Edmund_Husserl.jpg
+  say-hello: Welcome to <strong>Husserl Party!</strong>
+  bio: Your one-stop-shop for everything related to Edmund Husserl, the greatest philosopher OF ALL TIME.
 
 
 #-------------------------------
