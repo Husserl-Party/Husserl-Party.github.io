@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Who Was Edmund Husserl?
-date:   2026-07-13 00:00:00 +0300
+date:   2026-07-14 00:00:00 +0300
 image:  Husserl_Lecture.jpg
 tags:   
 ---
