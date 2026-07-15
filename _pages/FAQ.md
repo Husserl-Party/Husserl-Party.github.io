@@ -15,7 +15,7 @@ Read the website dumbass.
 
 ### Did Husserl smoke weed?
 
-See image above.
+Yes, Edmund Husserl smoked weed and played Minecraft.
 
  
 
