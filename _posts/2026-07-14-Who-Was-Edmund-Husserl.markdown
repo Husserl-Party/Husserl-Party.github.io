@@ -2,7 +2,7 @@
 layout: post
 title:  Who Was Edmund Husserl?
 date:   2026-07-14 00:00:00 +0300
-image:  Husserl_Lecture.jpg
+image:  Husserl1.jpg
 tags:   
 ---
 Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments." Noooooo! Perhaps, but perhaps your civilization is merely the sewer of an even greater society above you!
