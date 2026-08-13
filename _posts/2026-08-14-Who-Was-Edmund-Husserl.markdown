@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Who Was Edmund Husserl?
-date:   2026-07-14 00:00:00 +0300
+date:   2026-08-14 00:00:00 +0300
 image:  Husserl2.jpg
 tags:   
 ---
@@ -38,4 +38,4 @@ Husserl has touched the lives of many influential figures in profound ways. Here
 
 > “Before we get into the video, I would just like to give a big shoutout to Husserl for making all of this possible” – Mr. Beast
 
-> “Fuck Husserl” – This one Chinese international student I had a couple philosophy classes with. He actually knew quite a lot about pre-modern philosophy, but he couldn’t understand phenomenology to save his life. One day he kinda made a fool of himself in class and later that week I got stuck riding the elevator with him and he went on this huge rant about how Husserl was stupid and his ideas made no sense. He was being pretty arrogant, but I just nodded along and agreed with him because I was in no mood to argue and I was just for the elevator to let me out so I could go to class. 
+> “Fuck Husserl” – This one Chinese international student I had a couple philosophy classes with. He actually knew quite a lot about pre-modern philosophy, but he couldn’t understand phenomenology to save his life. One day he kinda made a fool of himself in class and later that week I got stuck riding the elevator with him and he went on this huge rant about how Husserl was stupid and his ideas made no sense. He was being pretty arrogant, but I just nodded along and agreed with him because I was in no mood to argue and I was just waiting for the elevator to let me out so I could go to class. 
